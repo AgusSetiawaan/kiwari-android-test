@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316423850326",
+    "firebase_url": "https://kiwari-android-test-dfcae.firebaseio.com",
+    "project_id": "kiwari-android-test-dfcae",
+    "storage_bucket": "kiwari-android-test-dfcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316423850326:android:19af39e30d54b363d3aef7",
+        "android_client_info": {
+          "package_name": "com.agus.kiwariandroidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316423850326-0ki9es8e64rlfs12lnhl50jg9fu6d990.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXe_HnLV3VHmeX3b3RVq0T_sLgPdZPUAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316423850326-0ki9es8e64rlfs12lnhl50jg9fu6d990.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='Kiwari Android Test'
+include ':app'
